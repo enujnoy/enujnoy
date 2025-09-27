@@ -1,7 +1,7 @@
 # YongJun Seo
 🚀 Undergraduate student at CNU, An aspiring Cloud Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=35F7F7&lines=제+GitHub에+오신+것을+환영합니다%21;클라우드+기술을+배우고+있어요%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=35F7F7&lines=제+GitHub에+오신+것을+환영합니다%21;)](https://git.io/typing-svg)
 
 ## ☁️ Interested
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
@@ -18,8 +18,6 @@
 ## 📚 Now Studying
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## ✉️ Contact Information
